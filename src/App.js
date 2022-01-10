@@ -11,6 +11,9 @@ function App() {
     },
     {
       id:'el3', title:"car insurance3", amount:219, date: new Date(2022,2,14)
+    },
+    {
+      id:'el4',title:'car insurance4', amount:230, date: new Date(2022,2,15)
     }
 
   ]
